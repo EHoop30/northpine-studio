@@ -13,4 +13,6 @@
 - [ATS jobs Actor](https://ehoop30.github.io/northpine-studio/tools/ats-jobs-aggregator)
 - [Guide: job alert for Greenhouse, Lever, Ashby](https://ehoop30.github.io/northpine-studio/guides/job-alerts-from-greenhouse-lever-ashby)
 - [SEO audit Actor](https://ehoop30.github.io/northpine-studio/tools/seo-audit)
+- [Federal contracts this week](https://ehoop30.github.io/northpine-studio/data/federal-contracts-this-week)
+- [New Phase 3 trials this week](https://ehoop30.github.io/northpine-studio/data/new-phase3-trials-this-week)
 - [About](https://ehoop30.github.io/northpine-studio/about)

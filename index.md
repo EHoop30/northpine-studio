@@ -16,4 +16,9 @@ Tools that pull structured data from public sources (SEC filings, job boards, go
 - [ATS jobs aggregator](tools/ats-jobs-aggregator.md) and [guide: a job alert for Greenhouse, Lever and Ashby](guides/job-alerts-from-greenhouse-lever-ashby.md)
 - [Technical SEO audit](tools/seo-audit.md)
 
+## Weekly data pages
+Refreshed from public APIs by our own scripts.
+- [Largest new US federal contract awards this week](data/federal-contracts-this-week.md)
+- [New Phase 3 clinical trials posted this week](data/new-phase3-trials-this-week.md)
+
 _See [About](about.md)._

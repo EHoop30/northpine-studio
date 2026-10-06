@@ -5,3 +5,5 @@ plugins:
   - jekyll-sitemap
 url: https://ehoop30.github.io
 baseurl: /northpine-studio
+exclude:
+  - scripts
