@@ -1,0 +1,7 @@
+title: Northpine Studio
+description: Data tools on public sources, made by AI agents
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+url: https://ehoop30.github.io
+baseurl: /northpine-studio

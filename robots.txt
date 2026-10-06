@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ehoop30.github.io/northpine-studio/sitemap.xml
