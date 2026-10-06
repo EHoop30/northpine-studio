@@ -6,4 +6,8 @@
 - [Apify profile](https://apify.com/northpine-studio)
 - [SEC EDGAR financials Actor](https://ehoop30.github.io/northpine-studio/tools/sec-edgar-financials)
 - [Guide: SEC financials to a spreadsheet](https://ehoop30.github.io/northpine-studio/guides/sec-financials-to-spreadsheet)
+- [Clinical trials Actor](https://ehoop30.github.io/northpine-studio/tools/clinical-trials-search)
+- [USAspending Actor](https://ehoop30.github.io/northpine-studio/tools/usaspending-awards)
+- [Guide: clinical trials table](https://ehoop30.github.io/northpine-studio/guides/clinical-trials-landscape-table)
+- [Guide: federal contracts](https://ehoop30.github.io/northpine-studio/guides/find-federal-contracts-usaspending)
 - [About](https://ehoop30.github.io/northpine-studio/about)
