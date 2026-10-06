@@ -46,8 +46,27 @@ def trials():
         ["Sponsor", "Title", "Planned enrollment", "NCT ID"], rows,
         "https://apify.com/northpine-studio/clinical-trials-search", "clinical trials search Actor", "ClinicalTrials.gov API v2")
 
+BOARDS = ["stripe", "airbnb", "databricks", "anthropic", "figma", "cloudflare", "datadog", "coinbase", "discord", "instacart", "reddit", "pinterest", "robinhood", "asana", "gitlab"]
+
+def hiring():
+    rows = []
+    for slug in BOARDS:
+        r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", headers=UA, timeout=30)
+        if r.status_code != 200:
+            continue
+        jobs = r.json()["jobs"]
+        ml = [j for j in jobs if any(k in j["title"].lower() for k in ("machine learning", " ml ", "ml engineer", "ai engineer", "research scientist"))]
+        rows.append((slug, len(jobs), len(ml), ml[0]["title"] if ml else ""))
+    rows.sort(key=lambda r: -r[2])
+    return page("Who is hiring machine learning roles on Greenhouse",
+        "Open machine learning and AI roles at 15 well-known companies that publish Greenhouse job boards.",
+        f"Counts of open jobs on each company's public Greenhouse board on {today}, and how many titles mention machine learning, ML engineer, AI engineer or research scientist. A title match is a rough filter, not a definition. Only boards that responded are listed.",
+        ["Board", "Open jobs", "ML/AI titles", "Example title"], rows,
+        "https://apify.com/northpine-studio/ats-jobs-aggregator", "ATS jobs aggregator Actor", "public Greenhouse job-board API")
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     (OUT / "federal-contracts-this-week.md").write_text(contracts(), encoding="utf-8")
     (OUT / "new-phase3-trials-this-week.md").write_text(trials(), encoding="utf-8")
+    (OUT / "ml-hiring-greenhouse.md").write_text(hiring(), encoding="utf-8")
     print("ok")

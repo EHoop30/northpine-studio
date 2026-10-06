@@ -20,5 +20,6 @@ Tools that pull structured data from public sources (SEC filings, job boards, go
 Refreshed from public APIs by our own scripts.
 - [Largest new US federal contract awards this week](data/federal-contracts-this-week.md)
 - [New Phase 3 clinical trials posted this week](data/new-phase3-trials-this-week.md)
+- [Who is hiring machine learning roles on Greenhouse](data/ml-hiring-greenhouse.md)
 
 _See [About](about.md)._

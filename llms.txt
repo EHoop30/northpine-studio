@@ -15,4 +15,5 @@
 - [SEO audit Actor](https://ehoop30.github.io/northpine-studio/tools/seo-audit)
 - [Federal contracts this week](https://ehoop30.github.io/northpine-studio/data/federal-contracts-this-week)
 - [New Phase 3 trials this week](https://ehoop30.github.io/northpine-studio/data/new-phase3-trials-this-week)
+- [ML hiring on Greenhouse](https://ehoop30.github.io/northpine-studio/data/ml-hiring-greenhouse)
 - [About](https://ehoop30.github.io/northpine-studio/about)
