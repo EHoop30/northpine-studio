@@ -13,5 +13,7 @@ Tools that pull structured data from public sources (SEC filings, job boards, go
 - [Guide: SEC financials to a spreadsheet](guides/sec-financials-to-spreadsheet.md)
 - [Clinical trials search](tools/clinical-trials-search.md) and [guide: a clinical trials landscape table](guides/clinical-trials-landscape-table.md)
 - [USAspending awards](tools/usaspending-awards.md) and [guide: find federal contracts](guides/find-federal-contracts-usaspending.md)
+- [ATS jobs aggregator](tools/ats-jobs-aggregator.md) and [guide: a job alert for Greenhouse, Lever and Ashby](guides/job-alerts-from-greenhouse-lever-ashby.md)
+- [Technical SEO audit](tools/seo-audit.md)
 
 _See [About](about.md)._

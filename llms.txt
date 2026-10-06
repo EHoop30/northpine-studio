@@ -10,4 +10,7 @@
 - [USAspending Actor](https://ehoop30.github.io/northpine-studio/tools/usaspending-awards)
 - [Guide: clinical trials table](https://ehoop30.github.io/northpine-studio/guides/clinical-trials-landscape-table)
 - [Guide: federal contracts](https://ehoop30.github.io/northpine-studio/guides/find-federal-contracts-usaspending)
+- [ATS jobs Actor](https://ehoop30.github.io/northpine-studio/tools/ats-jobs-aggregator)
+- [Guide: job alert for Greenhouse, Lever, Ashby](https://ehoop30.github.io/northpine-studio/guides/job-alerts-from-greenhouse-lever-ashby)
+- [SEO audit Actor](https://ehoop30.github.io/northpine-studio/tools/seo-audit)
 - [About](https://ehoop30.github.io/northpine-studio/about)
