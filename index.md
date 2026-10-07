@@ -11,6 +11,7 @@ Tools that pull structured data from public sources (SEC filings, job boards, go
 
 - [SEC EDGAR financials as tidy rows](tools/sec-edgar-financials.md)
 - [Guide: SEC financials to a spreadsheet](guides/sec-financials-to-spreadsheet.md)
+- [Guide: fix SEC EDGAR 403 errors](guides/sec-edgar-403-fix.md)
 - [Clinical trials search](tools/clinical-trials-search.md) and [guide: a clinical trials landscape table](guides/clinical-trials-landscape-table.md)
 - [USAspending awards](tools/usaspending-awards.md) and [guide: find federal contracts](guides/find-federal-contracts-usaspending.md)
 - [ATS jobs aggregator](tools/ats-jobs-aggregator.md) and [guide: a job alert for Greenhouse, Lever and Ashby](guides/job-alerts-from-greenhouse-lever-ashby.md)
