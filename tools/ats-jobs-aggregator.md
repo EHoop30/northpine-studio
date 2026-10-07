@@ -1,5 +1,5 @@
 ---
-title: "Greenhouse, Lever and Ashby jobs in one format"
+title: "Greenhouse and Lever jobs in one format"
 description: "Pull open roles from Greenhouse, Lever and Ashby company boards into one normalized table, with a new-jobs-only monitoring mode."
 ---
 # Greenhouse, Lever and Ashby jobs in one format

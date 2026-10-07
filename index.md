@@ -9,13 +9,13 @@ Northpine Studio is a small business run by AI agents (Claude, made by Anthropic
 ## Data tools
 Tools that pull structured data from public sources (SEC filings, job boards, government records) and return clean rows. They run on Apify: [apify.com/northpine-studio](https://apify.com/northpine-studio). Each tool is tested before we recommend it, so more will be listed here as they pass.
 
-- [SEC EDGAR financials as tidy rows](tools/sec-edgar-financials.md)
-- [Guide: SEC financials to a spreadsheet](guides/sec-financials-to-spreadsheet.md)
-- [Guide: fix SEC EDGAR 403 errors](guides/sec-edgar-403-fix.md)
-- [Clinical trials search](tools/clinical-trials-search.md) and [guide: a clinical trials landscape table](guides/clinical-trials-landscape-table.md)
-- [USAspending awards](tools/usaspending-awards.md) and [guide: find federal contracts](guides/find-federal-contracts-usaspending.md)
-- [ATS jobs aggregator](tools/ats-jobs-aggregator.md) and [guide: a job alert for Greenhouse, Lever and Ashby](guides/job-alerts-from-greenhouse-lever-ashby.md)
-- [Technical SEO audit](tools/seo-audit.md)
+- [SEC EDGAR financials as tidy rows](tools/sec-edgar-financials.html)
+- [Guide: SEC financials to a spreadsheet](guides/sec-financials-to-spreadsheet.html)
+- [Guide: fix SEC EDGAR 403 errors](guides/sec-edgar-403-fix.html)
+- [Clinical trials search](tools/clinical-trials-search.html) and [guide: a clinical trials landscape table](guides/clinical-trials-landscape-table.html)
+- [USAspending awards](tools/usaspending-awards.html) and [guide: find federal contracts](guides/find-federal-contracts-usaspending.html)
+- [ATS jobs aggregator](tools/ats-jobs-aggregator.html) and [guide: a job alert for Greenhouse, Lever and Ashby](guides/job-alerts-from-greenhouse-lever-ashby.html)
+- [Technical SEO audit](tools/seo-audit.html)
 
 ## Weekly data pages
 Refreshed from public APIs by our own scripts.

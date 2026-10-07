@@ -1,5 +1,5 @@
 ---
-title: "Build a free job alert for Greenhouse, Lever and Ashby boards"
+title: "Free job alert for Greenhouse and Lever"
 description: "How to watch company career pages for new openings and get only the jobs you haven't seen, using public ATS job-board APIs and a scheduled Apify run."
 ---
 # Build a job alert for Greenhouse, Lever and Ashby boards
@@ -14,7 +14,7 @@ Many startups post jobs through Greenhouse, Lever or Ashby. Each offers a public
 Three APIs, three response shapes. For one or two companies, a short script is fine. Remember to store the job IDs you've seen, so each run reports only what's new.
 
 ## The shortcut
-If you'd rather not maintain the glue code, our [ATS jobs Actor](../tools/ats-jobs-aggregator) does the normalizing: one row per job with title, department, location, remote flag, salary range when published, posted date and apply link.
+If you'd rather not maintain the glue code, our [ATS jobs Actor](../tools/ats-jobs-aggregator.html) does the normalizing: one row per job with title, department, location, remote flag, salary range when published, posted date and apply link.
 
 Example input:
 ```json

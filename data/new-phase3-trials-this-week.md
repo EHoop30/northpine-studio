@@ -1,8 +1,8 @@
 ---
-title: "New Phase 3 clinical trials posted this week"
+title: "New Phase 3 trials posted this week"
 description: "Phase 3 trials first posted on ClinicalTrials.gov in the last 7 days, largest enrollment first."
 ---
-# New Phase 3 clinical trials posted this week
+# New Phase 3 trials posted this week
 
 _Updated 2026-10-06. Source: ClinicalTrials.gov API v2. Generated automatically; figures are as reported by the source._
 

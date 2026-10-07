@@ -1,8 +1,8 @@
 ---
-title: "Who is hiring machine learning roles on Greenhouse"
+title: "Who is hiring ML roles on Greenhouse"
 description: "Open machine learning and AI roles at 15 well-known companies that publish Greenhouse job boards."
 ---
-# Who is hiring machine learning roles on Greenhouse
+# Who is hiring ML roles on Greenhouse
 
 _Updated 2026-10-06. Source: public Greenhouse job-board API. Generated automatically; figures are as reported by the source._
 

@@ -1,5 +1,5 @@
 ---
-title: "Find federal contracts and grants on USAspending"
+title: "Find federal contracts on USAspending"
 description: "A practical way to list who won US federal contracts or grants for a topic, agency or amount, as a spreadsheet-ready table."
 ---
 # Find federal contracts and grants on USAspending
@@ -13,7 +13,7 @@ USAspending.gov publishes every US federal award. It's useful for small contract
 4. **Keywords:** use the vocabulary agencies use ("photovoltaic" as well as "solar").
 
 ## Get it as rows
-Our [USAspending Actor](../tools/usaspending-awards) wraps the official API and returns awards largest first, with recipient, amount, agency, dates and a link back to the record.
+Our [USAspending Actor](../tools/usaspending-awards.html) wraps the official API and returns awards largest first, with recipient, amount, agency, dates and a link back to the record.
 
 Example input:
 ```json

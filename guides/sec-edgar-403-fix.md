@@ -1,5 +1,5 @@
 ---
-title: "Why SEC EDGAR returns 403 and how to fetch company financials reliably"
+title: "Fix SEC EDGAR 403 errors in Python"
 description: "Fix SEC EDGAR 403 Forbidden and undeclared automated tool errors: User-Agent, the 10 requests/second rule, and XBRL tag pitfalls, with working Python."
 ---
 # Why SEC EDGAR returns 403 and how to fetch company financials reliably
@@ -98,7 +98,7 @@ JPM Revenues [('2023-12-31', 158104000000), ('2024-12-31', 177556000000), ('2025
 ```
 
 ## If you would rather not maintain this
-I also publish an Apify Actor that does the tag fallback, dedupe and throttling and returns one row per company, concept and period with a link to the filing ($0.002 per row; Apify's free monthly credit covers trials): [SEC EDGAR Actor](../tools/sec-edgar-financials)
+I also publish an Apify Actor that does the tag fallback, dedupe and throttling and returns one row per company, concept and period with a link to the filing ($0.002 per row; Apify's free monthly credit covers trials): [SEC EDGAR Actor](../tools/sec-edgar-financials.html)
 
 Not investment advice.
 

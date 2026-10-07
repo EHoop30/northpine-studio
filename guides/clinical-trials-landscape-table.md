@@ -13,7 +13,7 @@ ClinicalTrials.gov lists hundreds of thousands of studies. For pipeline or compe
 4. Sort by sponsor to see who is concentrated in the area, and by completion date to see what reads out soon.
 
 ## Get the table
-Our [ClinicalTrials.gov Actor](../tools/clinical-trials-search) queries the official NLM API and returns flat rows with no personal contact details.
+Our [ClinicalTrials.gov Actor](../tools/clinical-trials-search.html) queries the official NLM API and returns flat rows with no personal contact details.
 
 ## Caveats
 Registry entries are self-reported and sometimes stale. Statuses and dates change, so re-run before you rely on them. This is research data, not medical advice.

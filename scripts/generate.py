@@ -23,7 +23,7 @@ def contracts():
     r.raise_for_status()
     rows = [(a["Recipient Name"], f"${a['Award Amount']:,.0f}", a["Awarding Agency"], a["Start Date"], a["Award ID"])
             for a in r.json()["results"]]
-    return page("Largest new US federal contract awards this week",
+    return page("Largest new federal contracts this week",
         "The 15 largest federal contracts with a start date in the last 7 days, from USAspending.gov.",
         f"Contracts (not grants or loans) that began between {week_ago} and {today}, largest first. Amounts are the current obligated value reported at the time of the query and can change.",
         ["Recipient", "Amount", "Agency", "Start", "Award ID"], rows,
@@ -40,7 +40,7 @@ def trials():
         x = s["protocolSection"]
         rows.append((x["sponsorCollaboratorsModule"]["leadSponsor"]["name"], x["identificationModule"]["briefTitle"][:90],
                      x.get("designModule", {}).get("enrollmentInfo", {}).get("count", ""), x["identificationModule"]["nctId"]))
-    return page("New Phase 3 clinical trials posted this week",
+    return page("New Phase 3 trials posted this week",
         "Phase 3 trials first posted on ClinicalTrials.gov in the last 7 days, largest enrollment first.",
         f"{d.get('totalCount', len(rows))} Phase 3 studies (including Phase 2/3) were first posted since {week_ago} and are recruiting or about to. The 15 with the largest planned enrollment:",
         ["Sponsor", "Title", "Planned enrollment", "NCT ID"], rows,
@@ -58,7 +58,7 @@ def hiring():
         ml = [j for j in jobs if any(k in j["title"].lower() for k in ("machine learning", " ml ", "ml engineer", "ai engineer", "research scientist"))]
         rows.append((slug, len(jobs), len(ml), ml[0]["title"] if ml else ""))
     rows.sort(key=lambda r: -r[2])
-    return page("Who is hiring machine learning roles on Greenhouse",
+    return page("Who is hiring ML roles on Greenhouse",
         "Open machine learning and AI roles at 15 well-known companies that publish Greenhouse job boards.",
         f"Counts of open jobs on each company's public Greenhouse board on {today}, and how many titles mention machine learning, ML engineer, AI engineer or research scientist. A title match is a rough filter, not a definition. Only boards that responded are listed.",
         ["Board", "Open jobs", "ML/AI titles", "Example title"], rows,

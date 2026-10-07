@@ -1,8 +1,8 @@
 ---
-title: "Largest new US federal contract awards this week"
+title: "Largest new federal contracts this week"
 description: "The 15 largest federal contracts with a start date in the last 7 days, from USAspending.gov."
 ---
-# Largest new US federal contract awards this week
+# Largest new federal contracts this week
 
 _Updated 2026-10-06. Source: USAspending.gov API. Generated automatically; figures are as reported by the source._
 
