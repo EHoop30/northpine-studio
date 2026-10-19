@@ -4,27 +4,27 @@ description: "The 15 largest federal contracts with a start date in the last 7 d
 ---
 # Largest new federal contracts this week
 
-_Updated 2026-10-12. Source: USAspending.gov API. Generated automatically; figures are as reported by the source._
+_Updated 2026-10-19. Source: USAspending.gov API. Generated automatically; figures are as reported by the source._
 
-Contracts (not grants or loans) that began between 2026-10-05 and 2026-10-12, largest first. Amounts are the current obligated value reported at the time of the query and can change.
+Contracts (not grants or loans) that began between 2026-10-12 and 2026-10-19, largest first. Amounts are the current obligated value reported at the time of the query and can change.
 
 | Recipient | Amount | Agency | Start | Award ID |
 |---|---|---|---|---|
-| TRIWEST HEALTHCARE ALLIANCE CORP | $900,485,187 | Department of Veterans Affairs | 2026-09-01 | 36C10G27K0004 |
-| PEACHTREE LUMBER COMPANY, INC | $99,575,262 | Department of Agriculture | 2026-10-07 | 12363N27C4000 |
-| MATOS-GRUNLEY JOINT VENTURE | $21,292,000 | General Services Administration | 2026-10-26 | 47PB5227F0001 |
-| WIELAND ROLLED PRODUCTS NORTH AMERICA, LLC | $17,876,251 | Department of the Treasury | 2026-10-06 | 2031JG27F70148 |
-| PMX INDUSTRIES, INC. | $14,728,410 | Department of the Treasury | 2026-10-06 | 2031JG27F71130 |
-| BLUE CORD DESIGN AND CONSTRUCTION, LLC | $12,974,316 | Department of Veterans Affairs | 2026-10-15 | 36C24827C0001 |
-| STANDARD COMMUNICATIONS INC | $10,998,538 | Department of Veterans Affairs | 2026-10-05 | 36C25627C0004 |
-| NAPC & HSCC JV LLC | $10,720,445 | Department of Veterans Affairs | 2026-10-09 | 36C24827C0004 |
-| CRANE & CO., INC. | $10,479,176 | Department of the Treasury | 2026-10-07 | 2031ZA27F00007 |
-| CRANE & CO., INC. | $8,769,414 | Department of the Treasury | 2026-10-07 | 2031ZA27F00008 |
-| STANDARD COMMUNICATIONS INC | $8,450,000 | Department of Veterans Affairs | 2026-10-08 | 36C24827C0005 |
-| BIRMINGHAM INDUSTRIAL CONSTRUCTION, LLC | $8,400,000 | National Aeronautics and Space Administration | 2026-10-08 | 80MSFC27F7050 |
-| DIRECT ENERGY BUSINESS LLC | $6,508,648 | Department of Veterans Affairs | 2026-10-01 | 36C24127F0017 |
-| BARQUE CONSULTING, LLC | $5,941,640 | Department of Veterans Affairs | 2026-10-07 | 36C25727C0004 |
-| ISLAND EMPIRE TECHNOLOGY SYSTEMS LLC | $5,250,566 | National Archives and Records Administration | 2026-10-15 | 88310327F00004 |
+| STONEX FINANCIAL LTD | $32,756,349 | Department of the Treasury | 2026-10-13 | 2031JG27F56093 |
+| STONEX FINANCIAL LTD | $32,735,314 | Department of the Treasury | 2026-10-13 | 2031JG27F56094 |
+| LC FLUHARTY CONSTRUCTION LLC | $14,851,013 | Department of Veterans Affairs | 2026-12-08 | 36C25027C0008 |
+| CAPEX CONSTRUCTION LLC | $11,166,791 | Department of Veterans Affairs | 2026-10-15 | 36C26027C0003 |
+| TRILLAMED LLC | $7,390,623 | Department of Veterans Affairs | 2026-09-01 | 36C10X27K0046 |
+| HAMILTON PACIFIC CHAMBERLAIN LLC | $7,183,608 | Department of Veterans Affairs | 2026-10-15 | 36C24527N0081 |
+| BRIDGER AEROSPACE GROUP, LLC | $5,344,200 | Department of the Interior | 2027-02-15 | 140D0427F1138 |
+| STONEX FINANCIAL LTD | $5,242,488 | Department of the Treasury | 2026-10-15 | 2031JG27F51624 |
+| STONEX FINANCIAL LTD | $5,242,299 | Department of the Treasury | 2026-10-15 | 2031JG27F51623 |
+| STONEX FINANCIAL LTD | $5,241,971 | Department of the Treasury | 2026-10-15 | 2031JG27F51622 |
+| STONEX FINANCIAL LTD | $5,241,580 | Department of the Treasury | 2026-10-15 | 2031JG27F51621 |
+| STONEX FINANCIAL LTD | $5,241,127 | Department of the Treasury | 2026-10-15 | 2031JG27F51620 |
+| INTERNATIONAL BUSINESS MACHINES CORPORATION | $5,111,667 | Department of the Treasury | 2026-10-16 | 2099CA27F00010 |
+| FIDELIS SUSTAINABILITY DISTRIBUTION LLC | $4,033,846 | Department of Veterans Affairs | 2026-09-01 | 36C10X27K0201 |
+| INTERNATIONAL AUTOMATED SYSTEMS INC | $3,593,717 | General Services Administration | 2026-10-14 | 47QSWA27F01LB |
 
 Want this data for your own filters or on a schedule? Run the [USAspending awards Actor](https://apify.com/northpine-studio/usaspending-awards).
 
