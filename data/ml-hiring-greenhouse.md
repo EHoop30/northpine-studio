@@ -4,27 +4,27 @@ description: "Open machine learning and AI roles at 15 well-known companies that
 ---
 # Who is hiring ML roles on Greenhouse
 
-_Updated 2026-10-19. Source: public Greenhouse job-board API. Generated automatically; figures are as reported by the source._
+_Updated 2026-10-26. Source: public Greenhouse job-board API. Generated automatically; figures are as reported by the source._
 
-Counts of open jobs on each company's public Greenhouse board on 2026-10-19, and how many titles mention machine learning, ML engineer, AI engineer or research scientist. A title match is a rough filter, not a definition. Only boards that responded are listed.
+Counts of open jobs on each company's public Greenhouse board on 2026-10-26, and how many titles mention machine learning, ML engineer, AI engineer or research scientist. A title match is a rough filter, not a definition. Only boards that responded are listed.
 
 | Board | Open jobs | ML/AI titles | Example title |
 |---|---|---|---|
-| anthropic | 660 | 35 | Anthropic Fellows Program, ML Systems & Reinforcement Learning |
-| pinterest | 157 | 28 | Director, Machine Learning Engineering, Ads Measurement |
-| reddit | 147 | 26 | Ads Conversion Modeling, Machine Learning Engineering Manager |
-| databricks | 897 | 17 | AI Engineer - FDE (Forward Deployed Engineer) |
-| stripe | 724 | 13 | AI Engineer |
-| airbnb | 175 | 13 | Machine Learning Engineer, Assistance Engineering |
-| coinbase | 226 | 10 | Machine Learning Engineer |
-| datadog | 431 | 5 | AI Research Scientist - Datadog AI Research (DAIR) |
-| instacart | 126 | 5 | Senior Machine Learning Engineer, Ads Response Prediction |
-| gitlab | 229 | 5 | Backend Engineer (Python),AI Engineering: Agent Foundations |
-| cloudflare | 435 | 3 | Senior Machine Learning Engineer |
-| discord | 47 | 3 | Engineering Manager, Machine Learning (Safety) |
-| figma | 140 | 2 | Software Engineer - Machine Learning |
-| robinhood | 153 | 2 | Staff Data Scientist,  ML (Credit Risk) |
-| asana | 106 | 0 |  |
+| anthropic | 682 | 35 | Anthropic Fellows Program, ML Systems & Reinforcement Learning |
+| pinterest | 164 | 28 | Director, Machine Learning Engineering, Ads Measurement |
+| reddit | 160 | 26 | Machine Learning Engineer |
+| databricks | 892 | 16 | AI Engineer - FDE (Forward Deployed Engineer) |
+| airbnb | 192 | 13 | Machine Learning Engineer, Assistance Engineering |
+| stripe | 718 | 11 | Engineering Manager, Machine Learning - Credit Risk |
+| coinbase | 225 | 10 | Machine Learning Engineer |
+| datadog | 429 | 5 | AI Research Scientist - Datadog AI Research (DAIR) |
+| gitlab | 239 | 5 | Backend Engineer (Python),AI Engineering: Agent Foundations |
+| cloudflare | 451 | 3 | Senior Machine Learning Engineer |
+| discord | 46 | 3 | Engineering Manager, Machine Learning (Safety) |
+| instacart | 111 | 3 | Senior Machine Learning Engineer, Economist |
+| robinhood | 157 | 2 | Staff Data Scientist,  ML (Credit Risk) |
+| figma | 138 | 1 | Software Engineer - Machine Learning |
+| asana | 109 | 0 |  |
 
 Want this data for your own filters or on a schedule? Run the [ATS jobs aggregator Actor](https://apify.com/northpine-studio/ats-jobs-aggregator).
 
