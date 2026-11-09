@@ -4,27 +4,27 @@ description: "The 15 largest federal contracts with a start date in the last 7 d
 ---
 # Largest new federal contracts this week
 
-_Updated 2026-11-02. Source: USAspending.gov API. Generated automatically; figures are as reported by the source._
+_Updated 2026-11-09. Source: USAspending.gov API. Generated automatically; figures are as reported by the source._
 
-Contracts (not grants or loans) that began between 2026-10-26 and 2026-11-02, largest first. Amounts are the current obligated value reported at the time of the query and can change.
+Contracts (not grants or loans) that began between 2026-11-02 and 2026-11-09, largest first. Amounts are the current obligated value reported at the time of the query and can change.
 
 | Recipient | Amount | Agency | Start | Award ID |
 |---|---|---|---|---|
-| CSI AVIATION, INC | $277,971,276 | Department of Homeland Security | 2026-11-01 | 70CDCR27FC0000001 |
-| SIGNATURE CHOICE III, LLC | $226,106,338 | Department of Veterans Affairs | 2026-11-01 | 36C10G27N0011 |
-| GILBANE FEDERAL | $113,748,477 | Department of Homeland Security | 2026-10-29 | 70ZS0327FKODI0002 |
-| MEDLINE INDUSTRIES, LP | $88,992,131 | Department of Veterans Affairs | 2026-09-01 | 36C10X27K0072 |
-| RICHARD GROUP LLC | $64,910,819 | Department of Veterans Affairs | 2026-10-30 | 36C77627C0021 |
-| STONEX FINANCIAL LTD | $37,570,880 | Department of the Treasury | 2026-10-28 | 2031JG27F56095 |
-| ROCKET LAB USA INC | $28,901,223 | National Aeronautics and Space Administration | 2026-10-28 | 80AFRC27FA003 |
-| GOVPLACE, LLC | $24,500,000 | Department of Homeland Security | 2026-11-01 | 70SBUR27F00000004 |
-| DANIELS BUILDING CO INC | $23,397,000 | Department of Veterans Affairs | 2026-10-30 | 36C25027C0020 |
-| ADAMS AND ASSOCIATES INC | $15,783,929 | Department of Labor | 2026-11-01 | 1605JW27F00001 |
-| CARAHSOFT TECHNOLOGY CORP | $15,092,970 | Department of Health and Human Services | 2026-10-30 | 7571TE27F80010 |
-| VETERANS CONTRACTING, INC. | $13,986,000 | Department of Veterans Affairs | 2026-10-28 | 36C25027C0009 |
-| ACCENTURE FEDERAL SERVICES LLC | $11,066,849 | Department of Energy | 2026-10-27 | 89303027FIM000232 |
-| RIDGWAY VALLEY ENTERPRISES INC | $10,647,796 | Department of the Interior | 2026-10-15 | 140PP027C0004 |
-| ARCHER-DANIELS-MIDLAND COMPANY | $10,581,840 | Department of Agriculture | 2026-10-28 | 121NTB27C0002 |
+| BLUE ORIGIN, LLC | $25,380,000 | National Aeronautics and Space Administration | 2026-11-02 | 80JSC027F7004 |
+| PMX INDUSTRIES, INC. | $13,511,483 | Department of the Treasury | 2026-11-02 | 2031JG27F71131 |
+| ACCENTURE FEDERAL SERVICES LLC | $10,487,625 | Social Security Administration | 2026-11-02 | 28321327C00060001 |
+| JETT'S SPECIALTY CONTRACTING, LLC | $10,195,530 | Department of Veterans Affairs | 2026-11-15 | 36C25627C0005 |
+| CAPE-APTIM JV1, LLC | $10,000,000 | Department of Defense | 2026-11-04 | W912DQ27FA010 |
+| SERVIAM CONSTRUCTION LLC | $8,158,193 | Department of Veterans Affairs | 2026-11-04 | 36C24427N0075 |
+| INTEGRATED DATA SERVICES, LLC | $6,996,610 | General Services Administration | 2026-11-03 | 47QFNA27F0001 |
+| EAST BAKING COMPANY, INC. | $6,772,349 | Department of Agriculture | 2026-11-04 | 123J1427F0013 |
+| CHIMBORAZO JV | $5,899,459 | Department of Veterans Affairs | 2026-11-03 | 36C77627N0044 |
+| SOUTHWESTERN DAKOTAH INC | $5,691,000 | Department of Health and Human Services | 2026-11-04 | 75H70127C00001 |
+| LOCKHEED MARTIN CORPORATION | $5,356,166 | National Aeronautics and Space Administration | 2026-11-04 | 80AFRC27F0001 |
+| STONEX FINANCIAL LTD | $5,187,998 | Department of the Treasury | 2026-11-04 | 2031JG27F51637 |
+| STONEX FINANCIAL LTD | $5,186,876 | Department of the Treasury | 2026-11-03 | 2031JG27F51636 |
+| PRIMARY CARE SOLUTIONS INC | $5,161,241 | Department of Veterans Affairs | 2027-02-01 | 36C25627N0155 |
+| SHIELD AI INC | $5,158,621 | Department of Homeland Security | 2026-10-30 | 70ZA0127F93130001 |
 
 Want this data for your own filters or on a schedule? Run the [USAspending awards Actor](https://apify.com/northpine-studio/usaspending-awards).
 
